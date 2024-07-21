@@ -1,0 +1,4 @@
+This is a text file in Notepad!
+Learning python programming language.
+Line no. 3 of the file.txt.
+This is written using Python write() function!
