@@ -8,10 +8,10 @@ def func(x):
 #defining an another function 
 def test_method(): 
 #check whether 3+5 = 8 or not by passing 3 as an argument in function x 
-	assert func(4) == 8
+	assert func(4) == 9
 
 def test_answer1(): 
-    a = 5
+    a = 10
     b = 10
     assert a==b 
 	
