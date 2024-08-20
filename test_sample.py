@@ -11,7 +11,7 @@ def test_method():
 	assert func(4) == 9
 
 def test_answer1(): 
-    a = 10
+    a = 9
     b = 10
     assert a==b 
 	
